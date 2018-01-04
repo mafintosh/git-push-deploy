@@ -1,6 +1,6 @@
 {
   "name": "git-push-deploy",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Setup a remote repo you can git push deploy to",
   "main": "index.js",
   "dependencies": {},
