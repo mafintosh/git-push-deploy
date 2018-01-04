@@ -1,0 +1,21 @@
+{
+  "name": "git-push-deploy",
+  "version": "0.0.0",
+  "description": "Setup a remote repo you can git push deploy to",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "bin": {
+    "git-push-deploy": "./bin.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/git-push-deploy.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/git-push-deploy/issues"
+  },
+  "homepage": "https://github.com/mafintosh/git-push-deploy"
+}
