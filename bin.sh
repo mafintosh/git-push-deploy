@@ -1,3 +1,5 @@
+#!/bin/bash
+
 SERVER=
 CWD=.
 REMOTE=deploy
